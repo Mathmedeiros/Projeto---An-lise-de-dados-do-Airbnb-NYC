@@ -20,7 +20,7 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 
 [Artigo no Medium sobre o Projeto](https://medium.com/something-about-data)
 
-**Veja também meu Portfólio completo:**
+# **Veja também meu Portfólio completo:**
 
 [Github](https://github.com/Mathmedeiros/Data-Science/)
 
