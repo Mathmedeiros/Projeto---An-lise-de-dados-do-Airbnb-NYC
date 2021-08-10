@@ -15,9 +15,15 @@ No final de 2018, a Startup fundada 10 anos atrás, já havia **hospedado mais d
 Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de *Data Science*.
 
 **Links:**
+
 [Notebook do Projeto completo](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+
 [Artigo no Medium sobre o Projeto](https://medium.com/something-about-data)
 
 **Veja também meu Portfólio completo:**
+
 [Github](https://github.com/Mathmedeiros/Data-Science/)
+
 [Blog no Medium](https://medium.com/something-about-data)
+
+---
