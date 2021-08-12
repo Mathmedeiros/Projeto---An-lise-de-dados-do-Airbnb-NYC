@@ -18,7 +18,7 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 
 [Notebook do Projeto completo](https://github.com/Mathmedeiros/Projeto-Analise-de-dados-do-Airbnb-NYC/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
-[Artigo no Medium sobre o Projeto](https://medium.com/something-about-data)
+[Artigo no Medium sobre o Projeto](https://medium.com/something-about-data/analisando-dados-do-airbnb-em-nyc-39a6c9d8a0f0)
 
 # **Veja também meu Portfólio completo:**
 
